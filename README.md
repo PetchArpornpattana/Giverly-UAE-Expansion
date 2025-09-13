@@ -37,18 +37,14 @@ A full capstone project presenting the market-entry and digital strategy for **G
 ## 📂 Repository Contents
 This repository includes all core project documents:
 
-- [`MIS611_Information_Sys_Capstone_Assessment1_Group.pdf`](MIS611_Information_Sys_Capstone_Assessment1_Group.pdf) – Initial project proposal and scope.
-- `MIS611_Assessment2_PartA_Group1_InnovaTeam Solutions.pdf` – Milestone 1 report with market and stakeholder analysis.
-- `MIS611_milestone2_report_2b_group1.pdf` – Milestone 2 report covering solution design and prototyping.
-- `InnovaTeam Solutions_Group1_Milestone2.pdf` – Presentation slides and supporting visuals.
-- `MIS611_Information_Systems_Capstone.pdf` – Final comprehensive report and recommendations.
+- [Assessment 1 – Proposal](docs/MIS611_Information_Sys_Capstone_Assessment%201_Group.pdf) – Initial project proposal and scope.
+- [Assessment 2 – Part A](docs/MIS611_Assessment2_Part%20A_Group1_InnovaTeam%20Solutions.pdf) – Milestone 1 report with market and stakeholder analysis.
+- [Assessment 2 – Part B - Report](docs/MIS611_milestone2%20report_2b_group%201.pdf) – Milestone 2 report covering solution design and prototyping.
+- [Assessment 2 – Part B - Presentation Slides](docs/InnovaTeam%20Solutions_Group%201_Milestone%202.pdf) – Presentation slides and supporting visuals.
+- [Final Capstone Report](docs/MIS611%20Information%20Systems%20Capstone.pdf) – Final comprehensive report and recommendations.
 
-> *Add a folder `images/` if you want to include screenshots or prototype images and reference them in the README.*
 
 ---
 
-## 📸 Screenshots (Optional)
-If you have wireframe or prototype images, add them to an `images/` folder and reference them like this:
-
-```markdown
+## 📸 Screenshots 
 ![Giverly Prototype](images/prototype-wireframes.png)
