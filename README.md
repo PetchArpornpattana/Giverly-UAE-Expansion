@@ -37,7 +37,7 @@ A full capstone project presenting the market-entry and digital strategy for **G
 ## 📂 Repository Contents
 This repository includes all core project documents:
 
-- [Assessment 1 – Proposal](docs/MIS611_Information_Sys_Capstone_Assessment%201_Group.pdf) – Initial project proposal and scope.
+- [Assessment 1 – Proposal](MIS611_%20Information%20Sys%20Capstone_Assessment%201_Group.pdf) – Initial project proposal and scope.
 - [Assessment 2 – Part A](docs/MIS611_Assessment2_Part%20A_Group1_InnovaTeam%20Solutions.pdf) – Milestone 1 report with market and stakeholder analysis.
 - [Assessment 2 – Part B - Report](docs/MIS611_milestone2%20report_2b_group%201.pdf) – Milestone 2 report covering solution design and prototyping.
 - [Assessment 2 – Part B - Presentation Slides](docs/InnovaTeam%20Solutions_Group%201_Milestone%202.pdf) – Presentation slides and supporting visuals.
