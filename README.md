@@ -35,3 +35,26 @@ A comprehensive capstone project presenting the market-entry and digital strateg
 ---
 
 ## 📂 Repository Contents
+Giverly-UAE-Expansion/
+│
+├── docs/
+│   ├── MIS611_Assessment1_Group.pdf
+│   ├── MIS611_Assessment2_PartA_Group1_InnovaTeam Solutions.pdf
+│   ├── MIS611_milestone2_report_2b_group1.pdf
+│   ├── InnovaTeam_Solutions_Group1_Milestone2.pdf
+│   └── MIS611_Information_Systems_Capstone_Final.pdf
+│
+├── images/
+│   ├── prototype-wireframes.png
+│   ├── persona-empathy-map.png
+│   └── journey-map.png
+│
+└── README.md
+
+---
+
+## 📸 Screenshots
+*(Add screenshots of your wireframes, prototypes, or journey maps once available)*
+
+```markdown
+![Giverly Prototype](images/prototype-wireframes.png)
