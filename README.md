@@ -48,4 +48,16 @@ This repository includes all core project documents:
 ---
 
 ## 📸 Screenshots 
+- Example Persona
+![Persona3_Young Professional](Persona3_Young%20Professional.png)
+![Persona3_Customer Empathy Map](Persona3_Customer%20Empathy%20Map.png)
+![Persona3_Customer Journey Map](Persona3_Customer%20Journey%20Map.png)
+
+- Prototype 
 ![Giverly Prototype](Prototype.png)
+
+- Example Final Timeline
+![Final Timeline 2](Final%20timeline%202.png)
+![Final Timeline 3](Final%20timeline%203.png)
+
+
