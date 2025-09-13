@@ -3,7 +3,7 @@
 
 A full capstone project presenting the market-entry and digital strategy for **Giverly**, a fintech platform that turns everyday consumer spending into charitable donations with cashback incentives.
 
-#Fintech #DesignThinking #BusinessAnalysis #CapstoneProject
+- #Fintech #DesignThinking #BusinessAnalysis #CapstoneProject
 ---
 
 ## 🎯 Project Objectives
