@@ -48,4 +48,4 @@ This repository includes all core project documents:
 ---
 
 ## 📸 Screenshots 
-![Giverly Prototype](images/prototype-wireframes.png)
+![Giverly Prototype](images/prototype.png)
